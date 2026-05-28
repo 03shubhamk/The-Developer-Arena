@@ -1,0 +1,10 @@
+HYPOTHESIS TEST RESULTS
+
+T-Test between Quantity and Price
+T-statistic: -18.5403
+P-value: 0.0000
+
+ANOVA Test among ['Quantity', 'Price', 'Total_Sales']
+F-statistic: 124.8156
+P-value: 0.0000
+
