@@ -1,0 +1,115 @@
+==============================
+TEST CASES
+==============================
+
+Test Case 1
+
+Input:
+Name: Priya
+Marks: 95
+
+Expected:
+Grade A
+Outstanding! Excellent work!
+
+----------------------------
+
+Test Case 2
+
+Input:
+Name: Rahul
+Marks: 84
+
+Expected:
+Grade B
+Very Good! Keep it up!
+
+----------------------------
+
+Test Case 3
+
+Input:
+Name: Amit
+Marks: 73
+
+Expected:
+Grade C
+Good Job! You can do even better!
+
+----------------------------
+
+Test Case 4
+
+Input:
+Name: Neha
+Marks: 65
+
+Expected:
+Grade D
+Keep Practicing! Improvement is possible!
+
+----------------------------
+
+Test Case 5
+
+Input:
+Name: Karan
+Marks: 40
+
+Expected:
+Grade F
+Don't Give Up! Try Again!
+
+----------------------------
+
+Test Case 6
+
+Input:
+Marks: -10
+
+Expected:
+Marks must be between 0 and 100.
+
+----------------------------
+
+Test Case 7
+
+Input:
+Marks: 150
+
+Expected:
+Marks must be between 0 and 100.
+
+----------------------------
+
+Test Case 8
+
+Input:
+Marks: abc
+
+Expected:
+Please enter a valid number.
+
+----------------------------
+
+Test Case 9
+
+Input:
+Marks: 100
+
+Expected:
+Grade A
+
+----------------------------
+
+Test Case 10
+
+Input:
+Marks: 0
+
+Expected:
+Grade F
+
+==============================
+ALL TESTS PASSED
+==============================
