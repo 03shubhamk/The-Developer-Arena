@@ -388,4 +388,3 @@ https://www.linkedin.com/in/shubham-khadekar03
 A sincere thank you to **The Developers Arena** for providing this internship opportunity and practical learning experience. The weekly assignments and projects helped me strengthen my knowledge of Python, Data Analysis, Machine Learning, and software development best practices.
 
 
-
